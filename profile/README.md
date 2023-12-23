@@ -4,90 +4,110 @@
 <h1><strong>Welcome To SEMICOLON</strong></h1>
 <img src="https://media.licdn.com/dms/image/D5616AQHAwJDX_5ADsQ/profile-displaybackgroundimage-shrink_350_1400/0/1696497289257?e=1708560000&v=beta&t=nr4inMkrJH4zWXmCuEqhTT6ZmBpn7WFCuOpgkGdD-bA">
 <br> 
-  
 </div>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-## Our Tech Stack
-
-<p align="left"> 
-
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-grey?logo=Amazon&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
-  </a>
-  &emsp; 
-  <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
-  &emsp;
-  <a> 
-     <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
-   </a>
-  &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
-  &emsp;
-   <a>
-    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-orange?logo=tensorflow&logoColor=white">
-  </a>
-  &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
-</p>
-
-
-## Connect with me:
-<p align="left">
+<div>
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+  <p>
   <a href="https://www.linkedin.com/in/edu-semicolon/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="SEMICOLON" height="30" width="40" /></a>
   <a href="https://www.instagram.com//" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="SEMICOLON" height="30" width="40" /></a>
+  <a href="https://twitter.com/prasannabrabour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasannabrabour" height="30" width="40" /></a>
+    <a href="https://fb.com/prasannabrabourame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasannabrabourame" height="30" width="40" /></a>
+  </p>
+</div>
+
+## About Us
+
+<div align="justify" width="50">
+<p>Welcome to SEMICOLON, the ultimate educational platform designed to empower learners and foster intellectual growth! <br>
+SEMICOLON is not just another run-of-the-mill learning platform; it's a transformative digital ecosystem where knowledge meets innovation. At SEMICOLON, we have curated a vast library of comprehensive courses covering a wide range of subjects, from mathematics and computer science to technology, robotics and IELTS. Whether you're a student seeking academic support, a professional aiming to upskill, or an enthusiastic learner hungry for knowledge, we have something for everyone. SEMICOLON is not just an educational platform; it's a gateway to personal growth, professional success, and lifelong learning. Join us on this transformative journey and unlock your full potential. Together, let's redefine education and shape a brighter future.
+ <br> <br> <b>Founder:</b> S M Asiful Islam Saky
 </p>
+  <br>
+  <img align="left" src="https://i.ibb.co/f46pNdY/mypic-removebg-preview-1.png" alt="mypic-removebg-preview-1" border="0" width="45%">
+</div>
 
-### Github Stats
+<h2>Tech Stack:</h2> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edu-semicolon&theme=radical&background=0A0A0A&stroke=CDB4DB&ring=CDB4DB&currStreakNum=D3D3D3&sideNums=D3D3D3&dates=CDB4DB)](https://git.io/streak-stats)
-<br />
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=edu-semicolon&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Sajidul Kbair Github Stats">
+<td align="center" width="20%">
+<span><b><center>Swift</center></b></span> 
+<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+</td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-semicolon&layout=compact&theme=dark&bg_color=0A0A0A" alt="Sajidul Kabir Top Languages"/>
-<br />
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>MATLAB</center></b></span> 
+<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>Bash</center></b></span> 
+<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>C++</center></b></span> 
+<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+</td>
+
+
+
+<td align="center" width="20%">
+<span><b><center>Flutter</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
 
