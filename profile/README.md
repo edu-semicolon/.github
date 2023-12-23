@@ -64,27 +64,9 @@ SEMICOLON is not just another run-of-the-mill learning platform; it's a transfor
 </div>  
 
 <details>
-<p align="center">
-  <a href="https://github.com/saky-semicolon">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saky-semicolon&theme=transparent" />
-  </a>
-  <a href="https://github.com/saky-semicolon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saky-semicolon&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/saky-semicolon">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saky-semicolon&theme=transparent" />
-  </a>
-  <a href="https://github.com/saky-semicolon">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saky-semicolon&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
+<!--Details here-->
 </details>
 
-<p align="center">
-  <a href="https://github.com/saky-semicolon">
-    <img src="https://komarev.com/ghpvc/?username=saky-semicolon&color=blue&style=flat)" />
-  </a>
-</p>
 
 
 
