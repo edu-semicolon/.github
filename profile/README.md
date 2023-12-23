@@ -1,7 +1,7 @@
 
 <div align="center" width="50">
-Hi there 👋
-<h2><strong>Welcome To SEMICOLON</strong></h2>
+<h3>Hi there 👋</h3>
+<h1><strong>Welcome To SEMICOLON</strong></h1>
 <img src="https://media.licdn.com/dms/image/D5616AQHAwJDX_5ADsQ/profile-displaybackgroundimage-shrink_350_1400/0/1696497289257?e=1708560000&v=beta&t=nr4inMkrJH4zWXmCuEqhTT6ZmBpn7WFCuOpgkGdD-bA">
 <br> 
   
@@ -75,14 +75,8 @@ Hi there 👋
 <p align="left">
   <a href="https://www.linkedin.com/in/edu-semicolon/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
+      alt="SEMICOLON" height="30" width="40" /></a>
   <a href="https://www.instagram.com//" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+      alt="SEMICOLON" height="30" width="40" /></a>
 </p>
