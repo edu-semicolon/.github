@@ -2,7 +2,8 @@
 <div align="center" width="50">
 Hi there 👋
 <h2><strong>Welcome To SEMICOLON</strong></h2>
-[https://github.com/edu-semicolon/SEMI-C/blob/main/dev-working_rounded.gif](https://media.licdn.com/dms/image/D5616AQHAwJDX_5ADsQ/profile-displaybackgroundimage-shrink_350_1400/0/1696497289257?e=1708560000&v=beta&t=nr4inMkrJH4zWXmCuEqhTT6ZmBpn7WFCuOpgkGdD-bA)<br> 
+<img src="https://media.licdn.com/dms/image/D5616AQHAwJDX_5ADsQ/profile-displaybackgroundimage-shrink_350_1400/0/1696497289257?e=1708560000&v=beta&t=nr4inMkrJH4zWXmCuEqhTT6ZmBpn7WFCuOpgkGdD-bA">
+<br> 
   
 </div>
 
