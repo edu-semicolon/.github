@@ -86,6 +86,3 @@ Hi there 👋
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
       alt="Viral Bhadeshiya" height="30" width="auto" /></a>
 </p>
-
------
-
