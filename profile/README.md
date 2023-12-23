@@ -29,7 +29,7 @@ SEMICOLON is not just another run-of-the-mill learning platform; it's a transfor
  <br> <br> <b>Founder:</b> S M Asiful Islam Saky
 </p>
   <br>
-  <img align="left" src="https://i.ibb.co/f46pNdY/mypic-removebg-preview-1.png" alt="mypic-removebg-preview-1" border="0" width="45%">
+  <img align="left" src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" border="0" width="45%">
 </div>
 
 <h2>Tech Stack:</h2> 
